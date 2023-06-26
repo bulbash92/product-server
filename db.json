@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Xiaomi 13",
+      "id": "1",
+      "price": 3200,
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    },
+    {
+      "name": "Iphone 13pro",
+      "id": "2",
+      "price": "32333",
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    },
+    {
+      "name": "Iphone 12pro",
+      "id": "3",
+      "price": 330,
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    },
+    {
+      "name": "Iphone 15pro",
+      "id": "4",
+      "price": 3500,
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    },
+    {
+      "name": "Samsung s22 ultra",
+      "id": "5",
+      "price": 23000,
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    },
+    {
+      "name": "MacBook Pro 14'",
+      "id": "6",
+      "price": 5500,
+      "image": "http://localhost:4200/images/no-image-icon.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, a mollitia deserunt autem dolor dolorem!"
+    }
+  ]
+}
