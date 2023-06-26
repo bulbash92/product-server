@@ -2,5 +2,6 @@
 
 json-server for test task
 
-run:
+# run server:
+
 json-server --watch db.json
